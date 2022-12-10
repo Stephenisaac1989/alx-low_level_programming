@@ -16,7 +16,7 @@ int main(void)
 for ( tho = 0 ; tho < 10 ; tho++)
 {	
 
-	for (hun = 0 ; hun <= 100i ; hun++)
+	for (hun = 0 ; hun <= 10i ; hun++)
 	{
 	
 		for (ten = 0 ; ten < 10 ; ten++)
