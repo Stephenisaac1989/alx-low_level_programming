@@ -4,15 +4,15 @@
 
 /**
  *
- *  * main - Entry point
+ *  main - Entry point
  *
- *   *
+ *   
  *
- *    *
+ *  
  *
- *     * Return: Always 0 (Sucess)
+ * Return: Always 0 (Sucess)
  *
- *      */
+ */
 
 
 
@@ -20,21 +20,21 @@ int main(void)
 
 {
 
-		char c;
+	char c;
 
 
 
-			for (c = 'a' ; c <= 'z' ; c++)
+	for (c = 'a' ; c <= 'z' ; c++)
 
-					{
+	{
 
-								putchar(c);
+			putchar(c);
 
-									}
+	}
 
-				putchar('\n');
+	putchar('\n');
 
-					return (0);
+	return (0);
 
 }
 
