@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main - prints _putchar and a new line
+*main - prints Holberton
 *Return: 0
 */
 int main(void)
