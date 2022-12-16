@@ -10,19 +10,15 @@ int _isupper(int c);
 /* _isdigit(int c);*/
 int _isdigit(int c);
 
-/* int mul(int a, int b);*/
-int mul(int a, int b);
-
-/* void print_numbers(void);*/
-void print_numbers(void);
-
-
-
 /* 1-alphabet.c */
 void print_alphabet(void);
 
 /* 2-print_alphabet_x10.c */
 void print_alphabet_x10(void);
+
+/* void print_most_numbers(void);*/
+void print_most_numbers(void);
+
 
 /* 3-islower.c */
 int _islower(int);
