@@ -7,11 +7,15 @@ int _putchar(char);
 /* _isupper(int c);*/
 int _isupper(int c);
 
+/* _isdigit(int c);*/
+int _isdigit(int c);
+
 /* int mul(int a, int b);*/
 int mul(int a, int b);
 
-/* _isdigit(int c);*/
-int _isdigit(int c);
+/* void print_numbers(void);*/
+void print_numbers(void);
+
 
 
 /* 1-alphabet.c */
