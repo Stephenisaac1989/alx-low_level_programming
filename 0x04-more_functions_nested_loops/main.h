@@ -7,6 +7,9 @@ int _putchar(char);
 /* _isupper(int c);*/
 int _isupper(int c);
 
+/* _isdigit(int c);*/
+int _isdigit(int c);;
+
 /* 1-alphabet.c */
 void print_alphabet(void);
 
