@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_line - entry point
@@ -24,4 +24,4 @@ void print_line(int n)
 		}
 		_putchar('\n');
 	}
-}
+u}
