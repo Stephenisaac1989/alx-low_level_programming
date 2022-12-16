@@ -1,53 +1,33 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/* _putchar.c */
-int _putchar(char);
+int _putchar(char c);
 
-/* _isupper(int c);*/
 int _isupper(int c);
 
-/* _isdigit(int c);*/
 int _isdigit(int c);
 
-/* 1-alphabet.c */
-void print_alphabet(void);
+int mul(int a, int b);
 
-/* 2-print_alphabet_x10.c */
-void print_alphabet_x10(void);
+void print_numbers(void);
 
-/* void more_numbers(void);*/
+void print_most_numbers(void);
+
 void more_numbers(void);
 
+void print_line(int n);
 
-/* 3-islower.c */
-int _islower(int);
+void print_diagonal(int n);
 
-/* 4-alpha.c */
-int _isalpha(int);
+void print_square(int size);
 
-/* 5-sign.c */
-int print_sign(int);
+void print_triangle(int size);
 
-/* 6-abs.c */
-int _abs(int);
+int isPrime(long int n);
 
-/* 7-print_last_digit.c */
-int print_last_digit(int);
+long int biggestFactor(long int a);
 
-/* 8-24_hours.c */
-void jack_bauer(void);
+void print_number(int n);
 
-/* 9-times_table.c */
-void times_table(void);
-
-/* 10-add.c */
-int add(int, int);
-
-/* 11-print_to_98.c */
-void print_to_98(int);
-
-/* 100-times_table.c*/
-void print_times_table(int);
-
+int numDigits(int n);
 #endif
